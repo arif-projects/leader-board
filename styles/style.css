@@ -99,6 +99,9 @@ main{
     width: 224px;
     height: 104px;
 }
+.course-author{
+    color:#ED6B4F ;
+}
 .course-info{
     display: flex;
     align-items: center;
